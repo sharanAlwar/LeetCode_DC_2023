@@ -1,3 +1,4 @@
+//997
 class Solution {
         public int findJudge(int N, int[][] trust) {
         int[] count = new int[N+1];
