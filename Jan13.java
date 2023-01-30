@@ -1,3 +1,4 @@
+//2246
 class Solution {
     int longestPathValue = 1; // variable to store the length of the longest path
 
