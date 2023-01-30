@@ -1,3 +1,4 @@
+//1443
 class Solution {
     // Function to find the minimum time to collect all apples
     public int minTime(int n, int[][] edges, List<Boolean> hasApple) {
