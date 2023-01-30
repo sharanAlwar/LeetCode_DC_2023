@@ -1,3 +1,4 @@
+//31
 class Solution {
     List<List<String>> result = new ArrayList<>();
     public List<List<String>> partition(String s) {
