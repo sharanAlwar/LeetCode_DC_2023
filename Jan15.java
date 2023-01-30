@@ -1,3 +1,4 @@
+//2421
 class Solution {
     int[] parent, count; // parent array to keep track of parent of each node and count array to keep track of number of nodes in each set
     int res; // variable to store the number of good paths
