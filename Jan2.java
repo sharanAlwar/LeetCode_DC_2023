@@ -1,3 +1,5 @@
+
+//520
 class Solution {
     public boolean detectCapitalUse(String word) {
         if(word.length() == 0 || word.length() == 1) return true;
