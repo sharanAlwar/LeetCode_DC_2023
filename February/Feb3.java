@@ -1,3 +1,4 @@
+//6
 class Solution {
     //While watching the pattern from top to bottom we can observe that for t
 public String convert(String s, int numRows) {         
